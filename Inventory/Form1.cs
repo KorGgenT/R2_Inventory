@@ -138,9 +138,13 @@ namespace Inventory
                 int size = dataGridView1.RowCount;
                 int i = 0;
                 //MessageBox.Show(size.ToString());
-                while (!found && i < size)
+                while (!found && i < size - 1)
                 {
-                    look = dataGridView1.Rows[i].Cells[1].Value.ToString();
+                    if (!object.ReferenceEquals(dataGridView1.Rows[i].Cells[1].Value, "string"))
+                    {
+                        look = dataGridView1.Rows[i].Cells[1].Value.ToString();
+                    }
+                    
 
                     if (look == search)
                     {
