@@ -129,6 +129,7 @@ namespace Inventory
 
         private void button2_Click(object sender, EventArgs e) // ENTER DATA BUTTON
         {
+            string look = "";
             string search = textBox1.Text;
             if (search != "")
             {
@@ -139,7 +140,9 @@ namespace Inventory
                 //MessageBox.Show(size.ToString());
                 while (!found && i < size)
                 {
-                    if ((string)dataGridView1.Rows[i].Cells[1].Value == search)
+                    look = dataGridView1.Rows[i].Cells[1].Value.ToString();
+
+                    if (look == search)
                     {
                         found = true;
                         dataGridView1.Rows[i].Cells[2].Value = true;
