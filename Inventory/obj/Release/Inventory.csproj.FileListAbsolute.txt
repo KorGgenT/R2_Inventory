@@ -1,0 +1,17 @@
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\Inventory.exe.config
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\Inventory.exe
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\Inventory.pdb
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.Form1.resources
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.Properties.Resources.resources
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.csproj.GenerateResource.Cache
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.csproj.CoreCompileInputs.cache
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.exe
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.pdb
+D:\Projects\Inventory\Inventory\Inventory\obj\Release\Inventory.csprojResolveAssemblyReference.cache
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\ClosedXML.dll
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\DocumentFormat.OpenXml.dll
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\ExcelNumberFormat.dll
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\FastMember.Signed.dll
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\ClosedXML.xml
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\DocumentFormat.OpenXml.xml
+D:\Projects\Inventory\Inventory\Inventory\bin\Release\ExcelNumberFormat.xml
